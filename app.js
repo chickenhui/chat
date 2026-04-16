@@ -1,4 +1,4 @@
-let ws = new WebSocket('wss://'+location.host);
+let ws = new WebSocket('wss://chat-h8hv.onrender.com');
 let msgBox = document.getElementById('msgBox');
 let input = document.getElementById('input');
 let userList = document.getElementById('userList');
